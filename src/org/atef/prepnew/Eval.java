@@ -29,7 +29,7 @@ public class Eval {
 		lstStr.add("Fatimaa");
 		lstStr.add("Atefo");
 
-		List<String> result = lstStr.stream().filter(e -> e.contains("Rawen"))
+		List<String> result = lstStr.stream().filter(e -> e.contains("o"))
 									 .collect(Collectors.toList());
 		result.forEach(e -> System.out.println(e));
 		
