@@ -28,7 +28,7 @@ public class Eval {
 		lstStr.add("Rawen");
 		lstStr.add("Saiida");
 		lstStr.add("Atef");
-		List<String> result = lstStr.stream().filter(e -> e.contains("Raw"))
+		List<String> result = lstStr.stream().filter(e -> e.contains("Ra"))
 									 .collect(Collectors.toList());
 		result.forEach(e -> System.out.println(e));
 		
