@@ -26,7 +26,7 @@ public class Eval {
 	
 		List<String> lstStr = new ArrayList<>(); 
 		lstStr.add("Roon");
-		lstStr.add("Saiida");
+		lstStr.add("Fatimaa");
 		lstStr.add("Atefff");
 
 		List<String> result = lstStr.stream().filter(e -> e.contains("Rawen"))
