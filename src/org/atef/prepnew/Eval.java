@@ -25,7 +25,7 @@ public class Eval {
 	public static void main(String[] args) {
 	
 		List<String> lstStr = new ArrayList<>(); 
-		lstStr.add("Rawen");
+		lstStr.add("Rawennn");
 		lstStr.add("Saiida");
 		lstStr.add("Atefff");
 
